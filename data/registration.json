@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "fName": "Naseeb",
+    "phnNumber": "988465444",
+    "team": "wakrah",
+    "games": ["basketball", "lemon&spoon", "musicalChair"],
+    "time": "18:15:38"
+  },
+  {
+    "id": 2,
+    "fName": "Fayis",
+    "phnNumber": "988465444",
+    "team": "doha",
+    "games": ["basketball", "cricketStumb", "football"],
+    "time": "18:16:12"
+  },
+  {
+    "id": 3,
+    "fName": "Favas",
+    "phnNumber": "988465444",
+    "team": "wakrah",
+    "games": ["basketball", "coinFilling", "waterFilling"],
+    "time": "18:16:24"
+  },
+  {
+    "id": 4,
+    "fName": "Mujeeb",
+    "phnNumber": "988465444",
+    "team": "wakrah",
+    "games": ["basketball", "cricketStumb", "coinFilling", "ballBlowing"],
+    "time": "18:36:22"
+  },
+  {
+    "id": 5,
+    "fName": "test",
+    "phnNumber": "46454654",
+    "team": "rayyan",
+    "games": ["basketball", "penalty", "lemon&spoon", "ballPass", "tavala"],
+    "time": "17:20:20"
+  },
+  {
+    "id": 6,
+    "fName": "test",
+    "phnNumber": "46454654",
+    "team": "alkhor",
+    "games": ["basketball", "penalty", "lemon&spoon", "ballPass", "tavala"],
+    "time": "17:20:22"
+  },
+  {
+    "id": 7,
+    "fName": "test",
+    "phnNumber": "46454654",
+    "team": "wakrah",
+    "games": ["basketball", "penalty", "lemon&spoon", "ballPass", "tavala"],
+    "time": "17:20:47"
+  },
+  {
+    "id": 8,
+    "fName": "test",
+    "phnNumber": "46454654",
+    "team": "wakrah",
+    "games": ["basketball", "penalty", "lemon&spoon", "ballPass", "tavala"],
+    "time": "17:23:18"
+  },
+  {
+    "id": 9,
+    "fName": "test",
+    "phnNumber": "46454654",
+    "team": "doha",
+    "games": ["basketball", "penalty", "lemon&spoon", "ballPass", "tavala"],
+    "time": "17:23:32"
+  },
+  {
+    "id": 10,
+    "fName": "adas",
+    "phnNumber": "asdasdas",
+    "team": "rayyan",
+    "games": [],
+    "time": "17:23:40"
+  },
+  {
+    "id": 11,
+    "fName": "tesssss",
+    "phnNumber": "46454654",
+    "team": "alkhor",
+    "games": ["basketball", "ballPass", "coinFilling", "kulamKara", "kamba"],
+    "time": "17:31:36"
+  },
+  {
+    "id": 12,
+    "fName": "Test Man",
+    "phnNumber": "46454654",
+    "team": "wakrah",
+    "games": ["basketball", "penalty"],
+    "time": "17:8:38"
+  },
+  {
+    "id": 13,
+    "fName": "test",
+    "phnNumber": "adasdasddadasda",
+    "team": "doha",
+    "games": ["musicalChair", "penalty", "ballBlowing"],
+    "time": "17:16:10"
+  }
+]
